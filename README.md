@@ -50,15 +50,11 @@ def QR_Decomposition(A):
 a = np.array(eval(input()))
 QR_Decomposition(a)
 
-
-
-
-
-
 ```
 
 ## Output
-```
+``![Qr](https://github.com/Arun2005-create/QRdecomposition/assets/138849356/81d8d223-99ae-4a48-93d9-d7654e476658)
+`
 
 ```
 
